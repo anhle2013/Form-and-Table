@@ -1,0 +1,52 @@
+
+button {
+    padding: 5px 15px;
+}
+
+#favorite {
+    margin: 0 auto;
+    width: 800px;
+}
+
+.favorite {
+    width: 100%;
+    background-color: #ff4c00;
+    padding: 10px;
+    color: #fff;
+    text-align: center;
+    font-weight: bold;
+    font-size: 28px;
+}
+
+.form-favorite {
+    width: 100%;
+    padding: 10px;
+}
+
+.row {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.div-left {
+    width: 20%;
+    float: left;
+}
+
+.div-right {
+    width: 80%;
+    float: left;
+}
+
+.input-text {
+    width: 80%;
+}
+
+.cb-favorite {
+    margin-left: 20px;
+}
+
+.col-3 {
+    width: 33%;
+    float: left;
+}
