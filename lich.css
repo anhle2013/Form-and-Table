@@ -1,0 +1,23 @@
+td {
+    font-size: 25px;
+    border: 1px solid grey;
+    text-align: center;
+    height: 50px;
+    width: 100px;
+}
+th {
+    font-size: 25px;
+    text-align: center;
+    height: 50px;
+    width: 100px;
+}
+.t7 {
+    color: blue;
+}
+.cn {
+    color: red;
+}
+h1 {
+    color: blue;
+    font-size: 50px;
+}

@@ -1,0 +1,62 @@
+h1, h2 {
+    text-align: center;
+    font-weight: bold;
+    font-size:24px;
+}
+
+.table_1 table {
+    height: 100px;
+    width: 40%;
+    border-collapse: collapse;   
+}
+.table_2 table {
+    height: 200px;
+    width: 70%;
+    border-collapse: collapse;   
+}
+
+.table_1 th{
+    font-size:16px;
+    font-weight: bolder;
+    text-align:center;
+    background-color: yellow;
+    border-collapse: collapse; 
+    border: 1px solid black;
+}
+.table_1 td, .table_2 td {
+    font-family: 'Open Sans', sans-serif;
+    font-weight:100;
+    font-size:13px;
+    text-align: left;
+    border-collapse: collapse; 
+    border: 1px solid black;
+}
+
+.table_2 th{
+    font-size:16px;
+    font-weight: bolder;
+    text-align:center;
+    border-collapse: collapse; 
+    border: 1px solid black;
+}
+
+.content_left {
+    width: 50%;
+    float: left;
+    text-align: left;
+}
+.content_right {
+    width: 50%;
+    float: right;
+    text-align: right;
+}
+
+.content {
+    color: blue;
+}
+.color {
+    background: yellow;
+}
+.color1 {
+    background: rgba(255, 196, 0, 0.87);
+}
